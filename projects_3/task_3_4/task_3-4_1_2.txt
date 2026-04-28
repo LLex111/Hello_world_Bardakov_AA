@@ -1,0 +1,11 @@
+barda@MSI:~$ ls -l -a -h
+total 28K
+drwxr-x--- 3 barda barda 4.0K Mar 17 15:04 .
+drwxr-xr-x 3 root  root  4.0K Mar 17 14:52 ..
+-rw------- 1 barda barda   60 Mar 17 15:04 .bash_history
+-rw-r--r-- 1 barda barda  220 Mar 17 14:52 .bash_logout
+-rw-r--r-- 1 barda barda 3.7K Mar 17 14:52 .bashrc
+drwx------ 2 barda barda 4.0K Mar 17 14:53 .cache
+-rw-rw-r-- 1 barda barda    0 Mar 17 14:53 .motd_shown
+-rw-r--r-- 1 barda barda  807 Mar 17 14:52 .profile
+-rw-r--r-- 1 barda barda    0 Mar 17 15:00 .sudo_as_admin_successful
